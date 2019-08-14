@@ -32,7 +32,7 @@ ul{
 <form>
 	<button>
 
-	<a href="Home.html">Log Out</a>
+	<a href="Home.php">Log Out</a>
 	</button>
 </body>
 	
