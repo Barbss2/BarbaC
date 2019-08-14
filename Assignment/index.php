@@ -28,7 +28,13 @@ ul{
 <li><a href="PIC2.html">Photo 2</a></li>
 <li><a href="PIC3.html">Photo 3</a></li>
 </ul>
+<hr>
+<form>
+	<button>
+	<a href="Home.html">Log Out</a>
+	</button>
 </body>
+	
 
 
 </html>
