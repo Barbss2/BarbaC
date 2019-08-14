@@ -31,8 +31,8 @@ ul{
 <hr>
 <form>
 	<button>
-	<h3>
-	<a href="Home.html">Log Out</a></h3>
+
+	<a href="Home.html">Log Out</a>
 	</button>
 </body>
 	
